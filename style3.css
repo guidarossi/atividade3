@@ -1,0 +1,13 @@
+.corfundo
+{
+
+    text-shadow: 8px 8px 0 rgba(255,0,180,0.5);
+}
+
+.caixa
+{
+    float: left;
+    padding: 100px;
+    margin: 0;
+    background: rgb(255, 255, 255);
+}
